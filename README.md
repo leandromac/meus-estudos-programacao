@@ -228,6 +228,39 @@
 - [ ] Ignorando arquivos
 - [ ] Conectando Github com chave SSH
 
+
+## Docker <img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-256.png" alt="github" height="30" width="auto" /> 
+ 
+- [ ] Matriz de desenvolvimento, containers e docker
+- [ ] O que são containers 
+- [ ] Fundamentos
+- [ ] Docker Hub
+- [ ] Docker Lifecycle
+- [ ] Executar, parar e remover
+- [ ] Pesquisar imagens
+- [ ] Docker Network
+- [ ] Bridge Network
+- [ ] Host Network
+- [ ] Outros Network Drivers - none, macvlan e overlay
+- [ ] Persistência de dados
+- [ ] Bind mount
+- [ ] Docker volume
+- [ ] tmpfs - Persistindo dados temporariamente em memória RAM
+- [ ] Containers e Microserviços
+- [ ] User - defined bridge network
+- [ ] Container links
+- [ ] Docker commit
+- [ ] Docker build
+- [ ] Dockerfile
+- [ ] CMD e ENTRYPOINT
+- [ ] Docker compose
+- [ ] Nova CLI
+- [ ] Displinibilizando stack em microserviço Compose
+- [ ] Sistema de banco de dados
+- [ ] Owncloud
+- [ ] FFMPEG - Ferramenta Linux
+- [ ] KaliBrowser - Ferramenta Linux
+
  
 <p  align="center">
 Leandro Macedo 
