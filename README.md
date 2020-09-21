@@ -211,7 +211,7 @@
 
 
 
- ## Git e GitHub <img style="margin-top: -18px" align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_black-512.png" alt="github" height="30" width="auto" /> 
+ ## Git e GitHub <img style="margin-top: -18px !important" align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_black-512.png" alt="github" height="30" width="auto" /> 
  
 - [x] Entendendo Git e GitHub
 - [x] Instalação e configuração
