@@ -116,10 +116,10 @@
 
  ## React JS <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" alt="github" height="30" width="auto" /> 
  
-- [ ] Introdução ao Módulo
-- [ ] O que é o React
-- [ ] O que são Components e porque eles são importantes
-- [ ] O que é JSX
+- [x] Introdução ao Módulo
+- [X] O que é o React
+- [x] O que são Components e porque eles são importantes
+- [x] O que é JSX
 - [ ] Como o React atualiza as views
 - [ ] Agrupando components
 - [ ] Dividindo e reutilizando components
