@@ -329,6 +329,20 @@
 - [ ] KaliBrowser - Ferramenta Linux
 
 
+## ESNext <img align="center" src="https://devlinduldulao.pro//wp-content/uploads/2018/12/esnext.png" alt="github" height="30" width="auto" /> 
+ 
+- [ ] O que é o ESNext
+- [ ] Operador Rest/Spread
+- [ ] Tagged template
+- [ ] Map
+- [ ] Set
+- [ ] For Of
+- [ ] Usando callbacks aninhadas
+- [ ] Refatorando callbacks para promises
+- [ ] Async/Await
+- [ ] Promises
+
+
 ## Angular <img align="center" src="https://mestresdaweb.com.br/wp-content/uploads/2020/05/AngularJS-Shield.svg" alt="github" height="30" width="auto" /> 
  
 - [ ] Backend com JSON Server
