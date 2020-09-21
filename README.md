@@ -11,7 +11,7 @@
 - Email:  **nandofmacedo@gmail.com** <br>
 
 
-## JavaScript + Lógica de Programação <img align="center" src="https://image.flaticon.com/icons/png/512/1779/1779335.png" alt="logica de programacao" height="30" width="auto"/><br>
+## JavaScript + Lógica de Programação <img style="margin-top: -18px" align="center" src="https://image.flaticon.com/icons/png/512/1779/1779335.png" alt="logica de programacao" height="30" width="auto"/><br>
 - [x] Conceitos básicos de programação 
 - [x] Algorítmos
 - [x] Essencial de lógica matemática para computação
@@ -26,7 +26,7 @@
 - [x] Funções 
 
 
-## JavaScript   <img src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" width="auto" height="30"/> <br>
+## JavaScript   <img style="margin-top: -18px" src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" width="auto" height="30"/> <br>
 
 - [x] Variáveis e tipos de dados 
 - [x] Operadores aritiméticos 
@@ -102,7 +102,7 @@
 - [x] Classes
 
 
-## jQuery <img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-256.png" alt="github" height="30" width="auto" /> 
+## jQuery <img style="margin-top: -18px" align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-256.png" alt="github" height="30" width="auto" /> 
  
 - [x] Entendendo o jQuery
 - [x] Selecionando elementos
@@ -114,7 +114,7 @@
 - [x] Plugin
 
 
- ## React JS <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" alt="github" height="30" width="auto" /> 
+ ## React JS <img style="margin-top: -18px" align="center" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" alt="github" height="30" width="auto" /> 
  
 - [ ] Introdução ao Módulo
 - [ ] O que é o React
@@ -142,7 +142,7 @@
 - [ ] Configuração
 - [ ] Configuração
 
- ## Node <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="github" height="30" width="auto" /> 
+ ## Node <img style="margin-top: -18px" align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="github" height="30" width="auto" /> 
  
 - [ ] Módulos
 - [ ] Executando códigos JS no Terminal
@@ -177,7 +177,7 @@
 - [ ] Pacote MoethodOverride
 
 
-## MongoDB <img align="center" src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" alt="github" height="30" width="auto" /> 
+## MongoDB <img style="margin-top: -18px" align="center" src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" alt="github" height="30" width="auto" /> 
  
 - [ ] Banco de dados Não-Relacionais
 - [ ] Sobre NoSQL
@@ -211,7 +211,7 @@
 
 
 
- ## Git e GitHub <img align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_black-512.png" alt="github" height="30" width="auto" /> 
+ ## Git e GitHub <img style="margin-top: -18px" align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_black-512.png" alt="github" height="30" width="auto" /> 
  
 - [x] Entendendo Git e GitHub
 - [x] Instalação e configuração
