@@ -114,11 +114,93 @@
 - [x] Plugin
 
 
- ## React JS <img align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_black-512.png" alt="github" height="30" width="30" /> 
+ ## React JS <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" alt="github" height="30" width="30" /> 
  
-- [x] Entendendo Git e GitHub
-- [x] Configuração
+- [ ] Introdução ao Módulo
+- [ ] O que é o React
+- [ ] O que são Components e porque eles são importantes
+- [ ] O que é JSX
+- [ ] Como o React atualiza as views
+- [ ] Agrupando components
+- [ ] Dividindo e reutilizando components
+- [ ] Props
+- [ ] Eventos
+- [ ] Passando evento por parâmetro para component
+- [ ] Renderização condicional
+- [ ] Rnderizando multiplos components
+- [ ] Renderizando multiplos elementos no JSX
+- [ ] Estados
+- [ ] Lifecycle
+- [ ] Hooks
+- [ ] Constrolled e Uncontrolled components
+- [ ] Controlando formulário
+- [ ] Controlando múltiplos inputs
+- [ ] SPA e rotas
+- [ ] Criando nova tela
+- [ ] Pegando parâmetros da URL
+- [ ] Redirect e página 404
+- [ ] Configuração
+- [ ] Configuração
 
+ ## Node <img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-256.png" alt="github" height="30" width="30" /> 
+ 
+- [ ] Módulos
+- [ ] Executando códigos JS no Terminal
+- [ ] Process: Entrada e saída padrão
+- [ ] Usando módulos de terceiros
+- [ ] Sistema de módulos: Require
+- [ ] Sistema de módulos: Exports
+- [ ] Arquivo package.json
+- [ ] Resposta JSON
+- [ ] Instância Única vs Nova instância
+- [ ] Objeto Global do Node
+- [ ] Entendendo o 'this'
+- [ ] Passando parâmetros entre Módulos
+- [ ] Instalando Deps & Scripts
+- [ ] Lendo arquivos
+- [ ] Escrevendo arquivos
+- [ ] Frameworks Web
+- [ ] Chain of Responsibility
+- [ ] Padrão Middleware
+- [ ] Postman
+- [ ] API com Express
+- [ ] Tarefas agendadas com temporizador
+- [ ] Entendendo o Backend
+- [ ] Verbos e status HTTP
+- [ ] Montando um servidor HTTP
+- [ ] Arquitetura MVC
+- [ ] Express
+- [ ] Concentrando rotas
+- [ ] Rota POST
+- [ ] Parâmetros nas rotas
+- [ ] Rotas PUT e DELETE
+
+
+## MongoDB <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="github" height="30" width="30" /> 
+ 
+- [ ] Banco de dados Não-Relacionais
+- [ ] Sobre NoSQL
+- [ ] Instalação e uso do MongoDB
+- [ ] Manipulando dados
+- [ ] Relacionando dados
+- [ ] Associação entre Collections
+- [ ] Operadores
+- [ ] Instalação do Mongoose
+- [ ] Mapeando Objeto-Documento
+- [ ] Models e as Rotas
+- [ ] Listando dados do Model
+- [ ] Atualização e remoção de dados
+- [ ] Create 
+- [ ] Read
+- [ ] Update
+- [ ] Delete
+- [ ] Consulta com Lookup
+
+# Express <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="github" height="30" width="30" /> 
+ 
+- [ ] Banco de dados Não-Relacionais
+- [ ] Sobre NoSQL
+- [ ] Instalação e uso do Mong
 
  ## Git e GitHub <img align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_black-512.png" alt="github" height="30" width="30" /> 
  
@@ -139,11 +221,6 @@
 - [ ] Git Revert
 - [ ] Branches remotas
 
-## Conceitos Básicos a Banco de Dados <img src="https://image.flaticon.com/icons/png/512/603/603201.png" alt="postgresql" width="30" height="30"/> <br>
-
-- [ ] Introdução a Banco de Dados 
-- [ ] Banco de dados não relacional
-- [ ] Express 
  
 <p  align="center">
 Leandro Macedo 
