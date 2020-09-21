@@ -177,6 +177,38 @@
 - [ ] Pacote MoethodOverride
 
 
+## React Native <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" alt="github" height="30" width="auto" /> 
+ 
+- [ ] O que é React Native
+- [ ] Configuração do ambiente
+- [ ] Módulo
+- [ ] Configuração do projeto
+- [ ] Estrutura do projeto
+- [ ] SafeAreaView
+- [ ] Componente
+- [ ] Módulos ECMAScript
+- [ ] Componentes com propriedades
+- [ ] React Fragment
+- [ ] Botões
+- [ ] Componente com estato (userState)
+- [ ] Criando Snippet
+- [ ] Comunicação direta e indireta
+- [ ] Diferenciando iOS e Android
+- [ ] Renderização condicional
+- [ ] Conhecendo o props.children
+- [ ] Renderização lista
+- [ ] Componentes controlados
+- [ ] Flexbox
+- [ ] Componente quadrado
+- [ ] Componente de classe: método render
+- [ ] Componente de classe: passando props
+- [ ] Componente de classe: estado
+- [ ] Componente de classe: cuidado com o this
+- [ ] Componente Mega-Sena
+- [ ] React Navigation
+- [ ] Versão offline
+
+
 ## MongoDB <img align="center" src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" alt="github" height="30" width="auto" /> 
  
 - [ ] Banco de dados Não-Relacionais
@@ -260,6 +292,13 @@
 - [ ] Owncloud
 - [ ] FFMPEG - Ferramenta Linux
 - [ ] KaliBrowser - Ferramenta Linux
+
+
+## Docker <img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-256.png" alt="github" height="30" width="auto" /> 
+ 
+ 
+- [ ] Matriz de desenvolvimento, containers e docker
+- [ ] O que são containers 
 
  
 <p  align="center">
