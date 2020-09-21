@@ -142,7 +142,7 @@
 - [ ] Configuração
 - [ ] Configuração
 
- ## Node <img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-256.png" alt="github" height="30" width="auto" /> 
+ ## Node <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="github" height="30" width="auto" /> 
  
 - [ ] Módulos
 - [ ] Executando códigos JS no Terminal
@@ -177,7 +177,7 @@
 - [ ] Pacote MoethodOverride
 
 
-## MongoDB <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="github" height="30" width="auto" /> 
+## MongoDB <img align="center" src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" alt="github" height="30" width="auto" /> 
  
 - [ ] Banco de dados Não-Relacionais
 - [ ] Sobre NoSQL
