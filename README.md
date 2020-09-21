@@ -174,6 +174,7 @@
 - [ ] Rota POST
 - [ ] Parâmetros nas rotas
 - [ ] Rotas PUT e DELETE
+- [ ] Pacote MoethodOverride
 
 
 ## MongoDB <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="github" height="30" width="auto" /> 
@@ -198,28 +199,34 @@
 
 # Express <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="github" height="30" width="auto" /> 
  
-- [ ] Banco de dados Não-Relacionais
-- [ ] Sobre NoSQL
-- [ ] Instalação e uso do Mong
+- [ ] Criando projeto
+- [ ] Configuração & Launcher
+- [ ] Tratando a primeira requisição
+- [ ] Enviando dados
+- [ ] Tipos de resposta
+- [ ] Middleware
+- [ ] Lendo dados da requisição
+- [ ] Entendendo o Body Parser
+- [ ] Comunicação entre módulos
+
+
 
  ## Git e GitHub <img align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_black-512.png" alt="github" height="30" width="auto" /> 
  
 - [x] Entendendo Git e GitHub
-- [x] Configuração
+- [x] Instalação e configuração
 - [x] Essencial do Git 
-- [x] Repositórios Remotos 
+- [x] Repositórios 
 - [x] Comitar arquivo/diretório
-- [ ] Ramificações (Branch)
+- [ ] Ciclo de vida dos arquivos
+- [ ] Visualizando logs
+- [ ] Visualizando as diferenças
+- [ ] Desfazendo alterações
 - [ ] Movendo e deletando branches 
-- [ ] Entendendo o Merge
+- [ ] Merge
 - [ ] Clone
-- [ ] Conceitos sobre README
-- [ ] Criando gif no README
-- [ ] Demo README
-- [ ] Merge e Rebase
-- [ ] Versionando com Tags
-- [ ] Git Revert
-- [ ] Branches remotas
+- [ ] Ignorando arquivos
+- [ ] Conectando Github com chave SSH
 
  
 <p  align="center">
