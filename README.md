@@ -120,9 +120,9 @@
 - [X] O que é o React
 - [x] O que são Components e porque eles são importantes
 - [x] O que é JSX
-- [ ] Como o React atualiza as views
-- [ ] Agrupando components
-- [ ] Dividindo e reutilizando components
+- [x] Como o React atualiza as views
+- [x] Agrupando components
+- [x] Dividindo e reutilizando components
 - [ ] Props
 - [ ] Eventos
 - [ ] Passando evento por parâmetro para component
@@ -141,6 +141,41 @@
 - [ ] Redirect e página 404
 - [ ] Configuração
 - [ ] Configuração
+
+
+## Webpack <img align="center" src="https://webpack.js.org/dcd5e077cf9f54ebe52d4f7ebe8c3080.png" alt="github" height="30" width="auto" /> 
+ 
+- [ ] Visão geral Webpack
+- [ ] Estrutura básica do projeto
+- [ ] Sistema de módulo
+- [ ] Configurando a pasta de saída
+- [ ] Carregando arquivos CSS
+- [ ] Externalizando arquivos CSS
+- [ ] Atualização - dependência node-sass
+- [ ] Carregando arquivo SCSS
+- [ ] Desenvolvimento e produção
+- [ ] Atualização
+- [ ] Carregando arquivos e imagens
+- [ ] Adicionando Webserver
+
+
+## Gulp <img align="center" src="https://miro.medium.com/max/1200/1*IGn5E-1wp5mQ2DHoevVCFA.png" alt="github" height="30" width="auto" /> 
+ 
+- [ ] Documentação do Gulp
+- [ ] Entendendo o Gulp
+- [ ] Instalando o Gulp e as dependências
+- [ ] Fundamentos Gulp
+- [ ] Introdução ao Babel
+- [ ] Processando Javascript com Gulp
+- [ ] Introdução ao Typescript
+- [ ] Procecssando Typescript com Gulp
+- [ ] Introdução ao SASS
+- [ ] Processando SASS com Gulp
+- [ ] Criando a estrutura do Build
+- [ ] Tasks dependências
+- [ ] Tasks aplicação
+- [ ] Tesks servidor
+
 
  ## Node <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="github" height="30" width="auto" /> 
  
@@ -294,11 +329,53 @@
 - [ ] KaliBrowser - Ferramenta Linux
 
 
-## Docker <img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-256.png" alt="github" height="30" width="auto" /> 
+## Angular <img align="center" src="https://mestresdaweb.com.br/wp-content/uploads/2020/05/AngularJS-Shield.svg" alt="github" height="30" width="auto" /> 
  
+- [ ] Backend com JSON Server
+- [ ] Visão geral Angular
+- [ ] Conceitos essenciais
+- [ ] Criando APP com o Angular CLI
+- [ ] Conhecendo os arquivos do projeto
+- [ ] HTML do AppComponent
+- [ ] Instalar os componentes do material
+- [ ] Componente cabeçalho
+- [ ] Componente rodapé
+- [ ] Componente navegação
+- [ ] Elementos do Angular
+- [ ] Componentes início
+- [ ] Naveganod entre componentes
+- [ ] Diretivas na prática
+- [ ] Bindings
+- [ ] Exibindo registros com o *ngFor
+- [ ] Gerando componentes tabela
+- [ ] Entendendo componente gerado
+- [ ] Adicionando coluna ações
+- [ ] Novos métodos
+- [ ] Componente atualizar e excluir
+- [ ] Exibindo mensagens de erro
+- [ ] Atualizando títulos
+
+
+## VueJS <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="github" height="30" width="auto" /> 
  
-- [ ] Matriz de desenvolvimento, containers e docker
-- [ ] O que são containers 
+- [ ] Conceitos básicos
+- [ ] Binding
+- [ ] Eventos
+- [ ] Diretivas: v-if, v-for e v-show
+- [ ] Aplicando estilo CSS
+- [ ] Template na Vue Instance
+- [ ] Componente
+- [ ] Diretiva personalizada
+
+
+## Electron <img align="center" src="https://www.itexto.com.br/devkico/wp-content/uploads/2020/02/electron_logo.png" alt="github" height="30" width="auto" /> 
+ 
+- [ ] Configurando projeto
+- [ ] Ajustes iniciais e alteração do título da janela
+- [ ] Interface gráfica
+- [ ] Utilizando Electron IPC (Inter-Process Communication)
+- [ ] Processando arquivos
+- [ ] Teste de aplicação
 
  
 <p  align="center">
