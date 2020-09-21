@@ -197,7 +197,7 @@
 - [ ] Delete
 - [ ] Consulta com Lookup
 
-# Express <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="github" height="30" width="auto" /> 
+## ExpressJS 
  
 - [ ] Criando projeto
 - [ ] Configuração & Launcher
