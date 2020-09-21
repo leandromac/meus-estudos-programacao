@@ -11,7 +11,7 @@
 - Email:  **nandofmacedo@gmail.com** <br>
 
 
-## JavaScript + Lógica de Programação <img align="center" src="https://image.flaticon.com/icons/png/512/1779/1779335.png" alt="logica de programacao" height="30" width="30"/><br>
+## JavaScript + Lógica de Programação <img align="center" src="https://image.flaticon.com/icons/png/512/1779/1779335.png" alt="logica de programacao" height="30" width="auto"/><br>
 - [x] Conceitos básicos de programação 
 - [x] Algorítmos
 - [x] Essencial de lógica matemática para computação
@@ -26,7 +26,7 @@
 - [x] Funções 
 
 
-## JavaScript   <img src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" width="30" height="30"/> <br>
+## JavaScript   <img src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" width="auto" height="30"/> <br>
 
 - [x] Variáveis e tipos de dados 
 - [x] Operadores aritiméticos 
@@ -102,7 +102,7 @@
 - [x] Classes
 
 
-## jQuery <img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-256.png" alt="github" height="30" width="30" /> 
+## jQuery <img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-256.png" alt="github" height="30" width="auto" /> 
  
 - [x] Entendendo o jQuery
 - [x] Selecionando elementos
@@ -114,7 +114,7 @@
 - [x] Plugin
 
 
- ## React JS <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" alt="github" height="30" width="30" /> 
+ ## React JS <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" alt="github" height="30" width="auto" /> 
  
 - [ ] Introdução ao Módulo
 - [ ] O que é o React
@@ -142,7 +142,7 @@
 - [ ] Configuração
 - [ ] Configuração
 
- ## Node <img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-256.png" alt="github" height="30" width="30" /> 
+ ## Node <img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-256.png" alt="github" height="30" width="auto" /> 
  
 - [ ] Módulos
 - [ ] Executando códigos JS no Terminal
@@ -176,7 +176,7 @@
 - [ ] Rotas PUT e DELETE
 
 
-## MongoDB <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="github" height="30" width="30" /> 
+## MongoDB <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="github" height="30" width="auto" /> 
  
 - [ ] Banco de dados Não-Relacionais
 - [ ] Sobre NoSQL
@@ -196,13 +196,13 @@
 - [ ] Delete
 - [ ] Consulta com Lookup
 
-# Express <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="github" height="30" width="30" /> 
+# Express <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="github" height="30" width="auto" /> 
  
 - [ ] Banco de dados Não-Relacionais
 - [ ] Sobre NoSQL
 - [ ] Instalação e uso do Mong
 
- ## Git e GitHub <img align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_black-512.png" alt="github" height="30" width="30" /> 
+ ## Git e GitHub <img align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_black-512.png" alt="github" height="30" width="auto" /> 
  
 - [x] Entendendo Git e GitHub
 - [x] Configuração
