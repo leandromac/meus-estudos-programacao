@@ -294,7 +294,7 @@
 - [ ] Componente Redirect
 - [ ] Componente Prompt
 - [ ] withRouter()
-- [ ] <HashRouter/>
+- [ ] HashRouter
 - [ ] Problemas conhecidos - Rota que não renderiz
 - [ ] Novidades do React v16 - Fragment
 - [ ] Novidades do React v16 - lazy e Suspense
