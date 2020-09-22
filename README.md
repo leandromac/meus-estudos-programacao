@@ -119,27 +119,148 @@
 - [x] Introdução ao Módulo
 - [X] O que é o React
 - [x] O que são Components e porque eles são importantes
-- [x] O que é JSX
-- [x] Como o React atualiza as views
-- [x] Agrupando components
-- [x] Dividindo e reutilizando components
+- [ ] Criando elementos aninhados
+- [ ] O que é JSX
+- [ ] Aninhando com JSX e criando componentes
+- [ ] Webpack - O que é?
+- [ ] Webpack - Versões e dependências
+- [ ] Webpack - Usando server
+- [ ] Webpack - Modularizando a aplicação
+- [ ] Webpack - Criando aplicação
+- [ ] Webpack - Usando sistema de módulo so ES6/2015
+- [ ] Webpack - ES Modules
+- [ ] Webpack - Configurando JSX no babel e sourcemaps
+- [ ] Webpack - Configurando aplicação para usar o React hot loader
+- [ ] Webpack - Colocando o hot loader para funcionar
+- [ ] Webpack - Configurando ferramenta de lint
+- [ ] Como o React atualiza as views
+- [ ] Agrupando components
+- [ ] Dividindo e reutilizando components
 - [ ] Props
-- [ ] Eventos
-- [ ] Passando evento por parâmetro para component
-- [ ] Renderização condicional
-- [ ] Rnderizando multiplos components
+- [ ] Atributos do HTML
+- [ ] getDefaultProps
+- [ ] Passando outros tipos de dados via props
+- [ ] Renderizando componentes com funções puras
+- [ ] Renderizando componentes com classes do ES6/2015
+- [ ] Renderizando multiplos components
 - [ ] Renderizando multiplos elementos no JSX
-- [ ] Estados
-- [ ] Lifecycle
+- [ ] Conhecendo a prop "key"
+- [ ] Problemas ao duplicar a "key"
+- [ ] Eventos
+- [ ] A prop "children"
+- [ ] Composição
+- [ ] State
+- [ ] Passando evento por parâmetro para component
+- [ ] Entendendo arrow funcionts
+- [ ] Stateful vs stateless
+- [ ] Renderização condicional
+- [ ] Lifecycle dos componentes
+- [ ] Lifecycle: fluxo de montagem / desmontagem
+- [ ] Lifecycle: fluxo de atualização (componentWillReceiveProps)
+- [ ] Lifecycle: fluxo de atualização (shouldComponentUpdate)
+- [ ] Lifecycle: fluxo de atualização (componentWillUpdate)
+- [ ] Lifecycle: fluxo de atualização (componentDidUpdate)
+- [ ] propTypes
 - [ ] Hooks
 - [ ] Constrolled e Uncontrolled components
-- [ ] Controlando formulário
-- [ ] Controlando múltiplos inputs
+- [ ] Controlando formulário no React
+- [ ] Formulários (checkbox e radio)
+- [ ] Formulários (selext e option)
+- [ ] Formulários (textarea)
+- [ ] Formulárop (controlando múltiplos inputs)
+- [ ] Eventos para componente de formulário
+- [ ] setState é assíncrono
+- [ ] Formas de fazer "bind" do this em eventos
+- [ ] Entendendo o spread operator do ES6/2015
+- [ ] Trabalhando com libs de terceiros junto com React
+- [ ] Overview sobre testes
+- [ ] Conhecendo o create-react-app
+- [ ] Jest (overview)
+- [ ] Jest na prática - Instalação e configuração
+- [ ] Jest na prática - Conhecendo as funções para testes e asserção
+- [ ] Jest na prática - code coverage
+- [ ] Jest na prática - Integração com ES6/2015
+- [ ] Jest na prática - watch interativo
+- [ ] TDD - Assertion tools e desafio método map
+- [ ] TDD - método map
+- [ ] TDD - aprendendo recursão
+- [ ] TDD - map e map recursivo
+- [ ] TDD - filter e filter recursivo
+- [ ] TDD - every e every recursivo
+- [ ] TDD - some e some recursivo
+- [ ] TDD - reverse e reverse recursivo
+- [ ] TDD - reduce e reduce recursivo
+- [ ] TDD - reduceRight e reduceRight recursivo
+- [ ] TDD - find e find recursivo
+- [ ] TDD - testando exceções
+- [ ] Conhecendo o Storybook
+- [ ] Trabalhando com assets: configuração no Webpack
+- [ ] Trabalhando com assets: HTML
+- [ ] Trabalhando com assets: exportando CSS em um arquivo
+- [ ] Webpack: gerando bundle de produção
+- [ ] Webpack Dashboard
+- [ ] Trabalhando com assets: modularizando o CSS
+- [ ] Trabalhando com assets: CSS modules
+- [ ] Trabalhando com assets: Critical Rendering Path
+- [ ] Trabalhando com assets: otimizando o Critical Rendering Path
+- [ ] Trabalhando com assets: ajustando ambiente de dev
+- [ ] cross-env
+- [ ] Criando alias no Webpack
+- [ ] Configurando o Storybook
+- [ ] Storybook - escrevendo histórias reais
+- [ ] Storybook - extendendo o webpack.config padrão
+- [ ] Storybook - localização do arquivo de config, linter e static build
+- [ ] Storybook - criando histórias para os outros componentes
+- [ ] Paginação - criando o componente
+- [ ] Conhecendo o Yarn
+- [ ] Paginação - ambiente para testes
+- [ ] Paginação - ambiente para testes - linter
+- [ ] Paginação - implementação inicial
+- [ ] Paginação - testando excessões
+- [ ] Paginação - storybook
+- [ ] Abstraindo configuração padrão do webpack
+- [ ] Adicionando paginação na aplicação
+- [ ] Colocando a paginação pra funcionar
+- [ ] Trocando de página
+- [ ] Adicionando parâmetros de paginação para os repositórios
+- [ ] Ajustando os prototypes do state para paginação
+- [ ] Acertando informações da paginação - página ativa
+- [ ] Acertando informações da paginação - total de páginas
+- [ ] Webpack - atualizando nosso boilerplate para webpack
+- [ ] Atualização do Webpack - atualizando as dependências
+- [ ] Atualização do Webpack - atualizar storybook e remover
+- [ ] Atualização do Webpack - o que o tree shaking e como configurar
+- [ ] ES6 - Promises
+- [ ] Webpacl clean plugin
+- [ ] ES7 - async / await
+- [ ] Adicionando async / await no nosso workflow
+- [ ] Ajustando storybook
+- [ ] Centralizar paths do webpack no common.js
+- [ ] Introdução à code splitting
+- [ ] CommonsChunkPlugin
+- [ ] import() dinâmico
+- [ ] Webpack - file-loader: imagens e outros assets além do CSS
+- [ ] Webpack - urk-loader: imagens e outros assets além do CSS
+- [ ] Webpack - raw-loader: pegando conteúdo de qualquer tipo de arquivo
+- [ ] Webpack - adicionando o file-loader e url-loader no nosso boilerplate
+- [ ] this.setState() - usando funções fazer atualizações em lote
+- [ ] Configuração do proloader do storybook
+- [ ] Conhecendo o PureComponent
+- [ ] Introdução à context API
+- [ ] Context API - Trabalhando com informações dinâmicas
+- [ ] Context API - Resolvendo shouldComponentUpdate
+- [ ] Context API - Atualizando context à partir da emissão de eventos
+- [ ] Context API - Unsubscribe está funcionando?
+- [ ] Higher Order Component (HOC) - Entendendo o que é um HOC
+- [ ] Context API - Isolando o context usando HOC
+- [ ] Testes - Conhecendo os snapshots
+- [ ] Testes - Atualizando Jest no workflow e criando teste de snapshot
+- [ ] Enzyme - Testando lógica em componentes
+- [ ] Testes unitários em componentes
 - [ ] SPA e rotas
 - [ ] Criando nova tela
 - [ ] Pegando parâmetros da URL
 - [ ] Redirect e página 404
-- [ ] Configuração
 - [ ] Configuração
 
 
