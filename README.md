@@ -256,12 +256,60 @@
 - [ ] Testes - Conhecendo os snapshots
 - [ ] Testes - Atualizando Jest no workflow e criando teste de snapshot
 - [ ] Enzyme - Testando lógica em componentes
-- [ ] Testes unitários em componentes
-- [ ] SPA e rotas
-- [ ] Criando nova tela
-- [ ] Pegando parâmetros da URL
-- [ ] Redirect e página 404
-- [ ] Configuração
+- [ ] O que é e para que serve o Redux?
+- [ ] Conhecendo o Redux - Primeiro princípio
+- [ ] Conhecendo o Redux - Segundo princípio
+- [ ] Conhecendo o Redux - Terceiro princípio - Funções puras
+- [ ] Conhecendo o Redux - Terceiro princípio - Reducer
+- [ ] Primeiro contato com o Redux
+- [ ] Criando nosso primeiro reducer com testes
+- [ ] Adicionando redux na aplicação
+- [ ] Como funciona o createStore()
+- [ ] Criando a função createReducer()
+- [ ] Instalação do React Router
+- [ ] Componentes principais do React Router
+- [ ] Criando mais de uma rota
+- [ ] Problema na configuração do Webpack do boilerplate
+- [ ] Rotas dinâmicas - passando parâmetros na rota
+- [ ] Conceitos de SPA - O request de uma rota
+- [ ] Conceitos de SPA - History API
+- [ ] Conceitos de SPA - History API - evento onpopstate
+- [ ] Conceitos de SPA - History API - método replaceState
+- [ ] Conceitos de SPA - History API - resolvendo problema reload da página
+- [ ] Componente Switch e Erro 404
+- [ ] Rotas dinâmicas - definindo rotas específicas
+- [ ] NavLink - componente especial para navegação
+- [ ] Route - prop "render"
+- [ ] Route - prop "children"
+- [ ] React Pattern - Render Props
+- [ ] Route Props - match e parâmetros opcionais
+- [ ] Route Props - location (pathname e key)
+- [ ] Route Props - location (hash)
+- [ ] Route Props - location (search)
+- [ ] Route Props - location (state)
+- [ ] Route Props - history (location e length)
+- [ ] Route Props - history (método push)
+- [ ] Route Props - history (action)
+- [ ] Route Props - history (navegação no history)
+- [ ] Componente Redirect
+- [ ] Componente Prompt
+- [ ] withRouter()
+- [ ] <HashRouter/>
+- [ ] Problemas conhecidos - Rota que não renderiz
+- [ ] Novidades do React v16 - Fragment
+- [ ] Novidades do React v16 - lazy e Suspense
+- [ ] Novidade do react v16.8 - Hooks
+- [ ] React Hooks - conhecendo o useState
+- [ ] React Hooks - useState: atualizar com base no estado anterior
+- [ ] React Hooks - useState: estados complexos
+- [ ] React Hooks - useState: arrays e objetos
+- [ ] React Hooks - efeitos colaterais
+- [ ] React Hooks - useEffect: atualização condicional
+- [ ] React Hooks - useEffect: executando somente uma vez
+- [ ] React Hooks - Criando Hooks personalizados
+- [ ] React Hooks - useEffect: simulando o componentWillUnmount
+- [ ] React Hooks - Regras para o uso dos Hooks
+- [ ] Novidades do React v16 - Context API
 
 
 ## Webpack <img align="center" src="https://webpack.js.org/dcd5e077cf9f54ebe52d4f7ebe8c3080.png" alt="github" height="30" width="auto" /> 
