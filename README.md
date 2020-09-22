@@ -231,7 +231,7 @@
 - [ ] Atualização do Webpack - atualizar storybook e remover
 - [ ] Atualização do Webpack - o que o tree shaking e como configurar
 - [ ] ES6 - Promises
-- [ ] Webpacl clean plugin
+- [ ] Webpack clean plugin
 - [ ] ES7 - async / await
 - [ ] Adicionando async / await no nosso workflow
 - [ ] Ajustando storybook
