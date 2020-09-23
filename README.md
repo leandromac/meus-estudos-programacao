@@ -119,11 +119,12 @@
 - [x] Introdução ao Módulo
 - [X] O que é o React
 - [x] O que são Components e porque eles são importantes
-- [ ] Criando elementos aninhados
-- [ ] O que é JSX
-- [ ] Aninhando com JSX e criando componentes
-- [ ] Webpack - O que é?
-- [ ] Webpack - Versões e dependências
+- [x] Criando elementos aninhados
+- [x] O que é JSX
+- [x] Aninhando com JSX e criando componentes
+- [x] Webpack - O que é?
+- [x] Webpack - Configuração básica
+- [x] Webpack - Versões e dependências
 - [ ] Webpack - Usando server
 - [ ] Webpack - Modularizando a aplicação
 - [ ] Webpack - Criando aplicação
