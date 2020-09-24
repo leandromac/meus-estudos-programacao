@@ -322,19 +322,19 @@
 - [x] Carregando arquivos CSS
 - [x] Externalizando arquivos CSS
 - [x] Atualização - dependência node-sass
-- [ ] Carregando arquivo SCSS
-- [ ] Desenvolvimento e produção
-- [ ] Atualização
-- [ ] Carregando arquivos e imagens
-- [ ] Adicionando Webserver
+- [x] Carregando arquivo SCSS
+- [x] Desenvolvimento e produção
+- [x] Atualização
+- [x] Carregando arquivos e imagens
+- [x] Adicionando Webserver
 
 
 ## Gulp <img align="center" src="https://miro.medium.com/max/1200/1*IGn5E-1wp5mQ2DHoevVCFA.png" alt="github" height="30" width="auto" /> 
  
-- [ ] Documentação do Gulp
-- [ ] Entendendo o Gulp
-- [ ] Instalando o Gulp e as dependências
-- [ ] Fundamentos Gulp
+- [x] Documentação do Gulp
+- [x] Entendendo o Gulp
+- [x] Instalando o Gulp e as dependências
+- [x] Fundamentos Gulp
 - [ ] Introdução ao Babel
 - [ ] Processando Javascript com Gulp
 - [ ] Introdução ao Typescript
