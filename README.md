@@ -335,16 +335,16 @@
 - [x] Entendendo o Gulp
 - [x] Instalando o Gulp e as dependências
 - [x] Fundamentos Gulp
-- [ ] Introdução ao Babel
+- [x] Introdução ao Babel
 - [ ] Processando Javascript com Gulp
 - [ ] Introdução ao Typescript
 - [ ] Procecssando Typescript com Gulp
 - [ ] Introdução ao SASS
-- [ ] Processando SASS com Gulp
-- [ ] Criando a estrutura do Build
-- [ ] Tasks dependências
-- [ ] Tasks aplicação
-- [ ] Tesks servidor
+- [ ] Projeto SPA: Processando SASS com Gulp
+- [ ] Projeto SPA: Criando a estrutura do Build
+- [ ] Projeto SPA: Tasks dependências
+- [ ] Projeto SPA: Tasks aplicação
+- [ ] Projeto SPA: Tesks servidor
 
 
  ## Node <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="github" height="30" width="auto" /> 
