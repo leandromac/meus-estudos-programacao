@@ -341,11 +341,11 @@
 - [x] Procecssando Typescript com Gulp
 - [x] Introdução ao SASS
 - [x] Processando SASS com Gulp
-- [ ] Projeto SPA: Processando SASS com Gulp
-- [ ] Projeto SPA: Criando a estrutura do Build
-- [ ] Projeto SPA: Tasks dependências
-- [ ] Projeto SPA: Tasks aplicação
-- [ ] Projeto SPA: Tesks servidor
+- [x] Projeto SPA: Processando SASS com Gulp
+- [x] Projeto SPA: Criando a estrutura do Build
+- [x] Projeto SPA: Tasks dependências
+- [x] Projeto SPA: Tasks aplicação
+- [x] Projeto SPA: Tesks servidor
 
 
  ## Node <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="github" height="30" width="auto" /> 
