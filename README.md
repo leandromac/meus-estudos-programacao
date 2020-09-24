@@ -315,13 +315,13 @@
 
 ## Webpack <img align="center" src="https://webpack.js.org/dcd5e077cf9f54ebe52d4f7ebe8c3080.png" alt="github" height="30" width="auto" /> 
  
-- [ ] Visão geral Webpack
-- [ ] Estrutura básica do projeto
-- [ ] Sistema de módulo
-- [ ] Configurando a pasta de saída
-- [ ] Carregando arquivos CSS
-- [ ] Externalizando arquivos CSS
-- [ ] Atualização - dependência node-sass
+- [x] Visão geral Webpack
+- [x] Estrutura básica do projeto
+- [x] Sistema de módulo
+- [x] Configurando a pasta de saída
+- [x] Carregando arquivos CSS
+- [x] Externalizando arquivos CSS
+- [x] Atualização - dependência node-sass
 - [ ] Carregando arquivo SCSS
 - [ ] Desenvolvimento e produção
 - [ ] Atualização
