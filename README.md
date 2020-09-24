@@ -125,15 +125,15 @@
 - [x] Webpack - O que é?
 - [x] Webpack - Configuração básica
 - [x] Webpack - Versões e dependências
-- [ ] Webpack - Usando server
-- [ ] Webpack - Modularizando a aplicação
-- [ ] Webpack - Criando aplicação
-- [ ] Webpack - Usando sistema de módulo so ES6/2015
-- [ ] Webpack - ES Modules
-- [ ] Webpack - Configurando JSX no babel e sourcemaps
-- [ ] Webpack - Configurando aplicação para usar o React hot loader
-- [ ] Webpack - Colocando o hot loader para funcionar
-- [ ] Webpack - Configurando ferramenta de lint
+- [x] Webpack - Usando server
+- [x] Webpack - Modularizando a aplicação
+- [x] Webpack - Criando aplicação
+- [x] Webpack - Usando sistema de módulo so ES6/2015
+- [x] Webpack - ES Modules
+- [x] Webpack - Configurando JSX no babel e sourcemaps
+- [x] Webpack - Configurando aplicação para usar o React hot loader
+- [x] Webpack - Colocando o hot loader para funcionar
+- [x] Webpack - Configurando ferramenta de lint
 - [ ] Como o React atualiza as views
 - [ ] Agrupando components
 - [ ] Dividindo e reutilizando components
