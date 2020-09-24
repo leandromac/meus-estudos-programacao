@@ -336,10 +336,11 @@
 - [x] Instalando o Gulp e as dependências
 - [x] Fundamentos Gulp
 - [x] Introdução ao Babel
-- [ ] Processando Javascript com Gulp
-- [ ] Introdução ao Typescript
-- [ ] Procecssando Typescript com Gulp
-- [ ] Introdução ao SASS
+- [x] Processando Javascript com Gulp
+- [x] Introdução ao Typescript
+- [x] Procecssando Typescript com Gulp
+- [x] Introdução ao SASS
+- [x] Processando SASS com Gulp
 - [ ] Projeto SPA: Processando SASS com Gulp
 - [ ] Projeto SPA: Criando a estrutura do Build
 - [ ] Projeto SPA: Tasks dependências
