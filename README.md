@@ -145,22 +145,22 @@
 - [x] Renderizando componentes com classes do ES6/2015
 - [x] Renderizando multiplos components
 - [x] Renderizando multiplos elementos no JSX
-- [ ] Conhecendo a prop "key"
-- [ ] Problemas ao duplicar a "key"
-- [ ] Eventos
-- [ ] A prop "children"
-- [ ] Composição
-- [ ] State
-- [ ] Passando evento por parâmetro para component
-- [ ] Entendendo arrow funcionts
-- [ ] Stateful vs stateless
-- [ ] Renderização condicional
-- [ ] Lifecycle dos componentes
-- [ ] Lifecycle: fluxo de montagem / desmontagem
-- [ ] Lifecycle: fluxo de atualização (componentWillReceiveProps)
-- [ ] Lifecycle: fluxo de atualização (shouldComponentUpdate)
-- [ ] Lifecycle: fluxo de atualização (componentWillUpdate)
-- [ ] Lifecycle: fluxo de atualização (componentDidUpdate)
+- [x] Conhecendo a prop "key"
+- [x] Problemas ao duplicar a "key"
+- [x] Eventos
+- [x] A prop "children"
+- [x] Composição
+- [x] State
+- [x] Passando evento por parâmetro para component
+- [x] Entendendo arrow funcionts
+- [x] Stateful vs stateless
+- [x] Renderização condicional
+- [x] Lifecycle dos componentes
+- [x] Lifecycle: fluxo de montagem / desmontagem
+- [x] Lifecycle: fluxo de atualização (componentWillReceiveProps)
+- [x] Lifecycle: fluxo de atualização (shouldComponentUpdate)
+- [x] Lifecycle: fluxo de atualização (componentWillUpdate)
+- [x] Lifecycle: fluxo de atualização (componentDidUpdate)
 - [ ] propTypes
 - [ ] Hooks
 - [ ] Constrolled e Uncontrolled components
