@@ -134,17 +134,17 @@
 - [x] Webpack - Configurando aplicação para usar o React hot loader
 - [x] Webpack - Colocando o hot loader para funcionar
 - [x] Webpack - Configurando ferramenta de lint
-- [ ] Como o React atualiza as views
-- [ ] Agrupando components
-- [ ] Dividindo e reutilizando components
-- [ ] Props
-- [ ] Atributos do HTML
-- [ ] getDefaultProps
-- [ ] Passando outros tipos de dados via props
-- [ ] Renderizando componentes com funções puras
-- [ ] Renderizando componentes com classes do ES6/2015
-- [ ] Renderizando multiplos components
-- [ ] Renderizando multiplos elementos no JSX
+- [x] Como o React atualiza as views
+- [x] Agrupando components
+- [x] Dividindo e reutilizando components
+- [x] Props
+- [x] Atributos do HTML
+- [x] getDefaultProps
+- [x] Passando outros tipos de dados via props
+- [x] Renderizando componentes com funções puras
+- [x] Renderizando componentes com classes do ES6/2015
+- [x] Renderizando multiplos components
+- [x] Renderizando multiplos elementos no JSX
 - [ ] Conhecendo a prop "key"
 - [ ] Problemas ao duplicar a "key"
 - [ ] Eventos
