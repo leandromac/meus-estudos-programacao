@@ -161,16 +161,17 @@
 - [x] Lifecycle: fluxo de atualização (shouldComponentUpdate)
 - [x] Lifecycle: fluxo de atualização (componentWillUpdate)
 - [x] Lifecycle: fluxo de atualização (componentDidUpdate)
-- [ ] propTypes
-- [ ] Hooks
-- [ ] Constrolled e Uncontrolled components
-- [ ] Controlando formulário no React
-- [ ] Formulários (checkbox e radio)
-- [ ] Formulários (selext e option)
-- [ ] Formulários (textarea)
-- [ ] Formulárop (controlando múltiplos inputs)
-- [ ] Eventos para componente de formulário
-- [ ] setState é assíncrono
+- [x] propTypes
+- [x] Hooks
+- [x] Constrolled e Uncontrolled components
+- [x] Controlando formulário no React
+- [x] Formulários (checkbox e radio)
+- [x] Formulários (selext e option)
+- [x] Formulários (textarea)
+- [x] Formulárop (controlando múltiplos inputs)
+- [x] Eventos para componente de formulário
+- [x] setState é assíncrono
+- [x] Conceitos e tipos de componentes com React
 - [ ] Formas de fazer "bind" do this em eventos
 - [ ] Entendendo o spread operator do ES6/2015
 - [ ] Trabalhando com libs de terceiros junto com React
