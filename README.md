@@ -178,9 +178,9 @@
 - [x] Overview sobre testes
 - [x] TDD
 - [x] Testes unitários em componentes
-- [ ] Conhecendo o create-react-app
-- [ ] Jest (overview)
-- [ ] Jest na prática - Instalação e configuração
+- [x] Conhecendo o create-react-app
+- [x] Jest (overview)
+- [x] Jest na prática - Instalação e configuração
 - [ ] Jest na prática - Conhecendo as funções para testes e asserção
 - [ ] Jest na prática - code coverage
 - [ ] Jest na prática - Integração com ES6/2015
