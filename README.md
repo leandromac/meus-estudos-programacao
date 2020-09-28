@@ -172,10 +172,12 @@
 - [x] Eventos para componente de formulário
 - [x] setState é assíncrono
 - [x] Conceitos e tipos de componentes com React
-- [ ] Formas de fazer "bind" do this em eventos
-- [ ] Entendendo o spread operator do ES6/2015
-- [ ] Trabalhando com libs de terceiros junto com React
-- [ ] Overview sobre testes
+- [x] Formas de fazer "bind" do this em eventos
+- [x] Entendendo o spread operator do ES6/2015
+- [x] Trabalhando com libs de terceiros junto com React
+- [x] Overview sobre testes
+- [x] TDD
+- [x] Testes unitários em componentes
 - [ ] Conhecendo o create-react-app
 - [ ] Jest (overview)
 - [ ] Jest na prática - Instalação e configuração
