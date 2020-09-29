@@ -187,8 +187,8 @@
 - [x] Jest na prática - watch interativo
 - [x] TDD - Assertion tools e desafio método map
 - [x] TDD - método map
-- [ ] TDD - aprendendo recursão
-- [ ] TDD - map e map recursivo
+- [x] TDD - aprendendo recursão
+- [x] TDD - map e map recursivo
 - [ ] TDD - filter e filter recursivo
 - [ ] TDD - every e every recursivo
 - [ ] TDD - some e some recursivo
