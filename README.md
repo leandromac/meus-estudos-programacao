@@ -181,10 +181,10 @@
 - [x] Conhecendo o create-react-app
 - [x] Jest (overview)
 - [x] Jest na prática - Instalação e configuração
-- [ ] Jest na prática - Conhecendo as funções para testes e asserção
-- [ ] Jest na prática - code coverage
-- [ ] Jest na prática - Integração com ES6/2015
-- [ ] Jest na prática - watch interativo
+- [x] Jest na prática - Conhecendo as funções para testes e asserção
+- [x] Jest na prática - code coverage
+- [x] Jest na prática - Integração com ES6/2015
+- [x] Jest na prática - watch interativo
 - [ ] TDD - Assertion tools e desafio método map
 - [ ] TDD - método map
 - [ ] TDD - aprendendo recursão
