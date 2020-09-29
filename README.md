@@ -185,8 +185,8 @@
 - [x] Jest na prática - code coverage
 - [x] Jest na prática - Integração com ES6/2015
 - [x] Jest na prática - watch interativo
-- [ ] TDD - Assertion tools e desafio método map
-- [ ] TDD - método map
+- [x] TDD - Assertion tools e desafio método map
+- [x] TDD - método map
 - [ ] TDD - aprendendo recursão
 - [ ] TDD - map e map recursivo
 - [ ] TDD - filter e filter recursivo
