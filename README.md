@@ -193,10 +193,10 @@
 - [x] TDD - every e every recursivo
 - [x] TDD - some e some recursivo
 - [x] TDD - reverse e reverse recursivo
-- [ ] TDD - reduce e reduce recursivo
-- [ ] TDD - reduceRight e reduceRight recursivo
-- [ ] TDD - find e find recursivo
-- [ ] TDD - testando exceções
+- [x] TDD - reduce e reduce recursivo
+- [x] TDD - reduceRight e reduceRight recursivo
+- [x] TDD - find e find recursivo
+- [x] TDD - testando exceções
 - [ ] Conhecendo o Storybook
 - [ ] Trabalhando com assets: configuração no Webpack
 - [ ] Trabalhando com assets: HTML
