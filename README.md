@@ -189,10 +189,10 @@
 - [x] TDD - método map
 - [x] TDD - aprendendo recursão
 - [x] TDD - map e map recursivo
-- [ ] TDD - filter e filter recursivo
-- [ ] TDD - every e every recursivo
-- [ ] TDD - some e some recursivo
-- [ ] TDD - reverse e reverse recursivo
+- [x] TDD - filter e filter recursivo
+- [x] TDD - every e every recursivo
+- [x] TDD - some e some recursivo
+- [x] TDD - reverse e reverse recursivo
 - [ ] TDD - reduce e reduce recursivo
 - [ ] TDD - reduceRight e reduceRight recursivo
 - [ ] TDD - find e find recursivo
