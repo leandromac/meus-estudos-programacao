@@ -201,13 +201,13 @@
 - [x] Trabalhando com assets: configuração no Webpack
 - [x] Trabalhando com assets: HTML
 - [x] Trabalhando com assets: exportando CSS em um arquivo
-- [ ] Webpack: gerando bundle de produção
-- [ ] Webpack Dashboard
-- [ ] Trabalhando com assets: modularizando o CSS
-- [ ] Trabalhando com assets: CSS modules
-- [ ] Trabalhando com assets: Critical Rendering Path
-- [ ] Trabalhando com assets: otimizando o Critical Rendering Path
-- [ ] Trabalhando com assets: ajustando ambiente de dev
+- [x] Webpack: gerando bundle de produção
+- [x] Webpack Dashboard
+- [x] Trabalhando com assets: modularizando o CSS
+- [x] Trabalhando com assets: CSS modules
+- [x] Trabalhando com assets: Critical Rendering Path
+- [x] Trabalhando com assets: otimizando o Critical Rendering Path
+- [x] Trabalhando com assets: ajustando ambiente de dev
 - [ ] cross-env
 - [ ] Criando alias no Webpack
 - [ ] Configurando o Storybook
