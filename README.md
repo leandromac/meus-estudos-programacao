@@ -197,10 +197,10 @@
 - [x] TDD - reduceRight e reduceRight recursivo
 - [x] TDD - find e find recursivo
 - [x] TDD - testando exceções
-- [ ] Conhecendo o Storybook
-- [ ] Trabalhando com assets: configuração no Webpack
-- [ ] Trabalhando com assets: HTML
-- [ ] Trabalhando com assets: exportando CSS em um arquivo
+- [x] Conhecendo o Storybook
+- [x] Trabalhando com assets: configuração no Webpack
+- [x] Trabalhando com assets: HTML
+- [x] Trabalhando com assets: exportando CSS em um arquivo
 - [ ] Webpack: gerando bundle de produção
 - [ ] Webpack Dashboard
 - [ ] Trabalhando com assets: modularizando o CSS
