@@ -209,7 +209,7 @@
 - [x] Trabalhando com assets: otimizando o Critical Rendering Path
 - [x] Trabalhando com assets: ajustando ambiente de dev
 - [x] cross-env
-- [ ] Criando alias no Webpack
+- [x] Criando alias no Webpack
 - [ ] Configurando o Storybook
 - [ ] Storybook - escrevendo histórias reais
 - [ ] Storybook - extendendo o webpack.config padrão
