@@ -459,7 +459,7 @@
 - [x] Essencial do Git 
 - [x] Repositórios 
 - [x] Comitar arquivo/diretório
-- [ ] Ciclo de vida dos arquivos
+- [x] Ciclo de vida dos arquivos
 - [ ] Visualizando logs
 - [ ] Visualizando as diferenças
 - [ ] Desfazendo alterações
