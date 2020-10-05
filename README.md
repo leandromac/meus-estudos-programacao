@@ -460,10 +460,10 @@
 - [x] Repositórios 
 - [x] Comitar arquivo/diretório
 - [x] Ciclo de vida dos arquivos
-- [ ] Visualizando logs
-- [ ] Visualizando as diferenças
-- [ ] Desfazendo alterações
-- [ ] Movendo e deletando branches 
+- [x] Visualizando logs
+- [x] Visualizando as diferenças
+- [x] Desfazendo alterações
+- [x] Movendo e deletando branches 
 - [ ] Merge
 - [ ] Clone
 - [ ] Ignorando arquivos
