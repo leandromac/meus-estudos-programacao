@@ -26,7 +26,7 @@
 - [x] Funções 
 
 
-## JavaScript   <img src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" width="auto" height="30"/> <br>
+## JavaScript   <img alt="Javascript" src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" width="auto" height="30"/> <br>
 
 - [x] Variáveis e tipos de dados 
 - [x] Operadores aritiméticos 
@@ -102,7 +102,7 @@
 - [x] Classes
 
 
-## jQuery <img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-256.png" alt="github" height="30" width="auto" /> 
+## jQuery <img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-256.png" alt="jQuery" height="30" width="auto" /> 
  
 - [x] Entendendo o jQuery
 - [x] Selecionando elementos
@@ -114,7 +114,7 @@
 - [x] Plugin
 
 
- ## React JS <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" alt="github" height="30" width="auto" /> 
+ ## React JS <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" alt="ReactJS" height="30" width="auto" /> 
  
 - [x] Introdução ao Módulo
 - [X] O que é o React
@@ -316,7 +316,7 @@
 - [ ] Novidades do React v16 - Context API
 
 
-## Webpack <img align="center" src="https://webpack.js.org/dcd5e077cf9f54ebe52d4f7ebe8c3080.png" alt="github" height="30" width="auto" /> 
+## Webpack <img align="center" src="https://webpack.js.org/dcd5e077cf9f54ebe52d4f7ebe8c3080.png" alt="Webpack" height="30" width="auto" /> 
  
 - [x] Visão geral Webpack
 - [x] Estrutura básica do projeto
@@ -332,7 +332,7 @@
 - [x] Adicionando Webserver
 
 
-## Gulp <img align="center" src="https://miro.medium.com/max/1200/1*IGn5E-1wp5mQ2DHoevVCFA.png" alt="github" height="30" width="auto" /> 
+## Gulp <img align="center" src="https://miro.medium.com/max/1200/1*IGn5E-1wp5mQ2DHoevVCFA.png" alt="Gulp" height="30" width="auto" /> 
  
 - [x] Documentação do Gulp
 - [x] Entendendo o Gulp
@@ -351,7 +351,7 @@
 - [x] Projeto SPA: Tesks servidor
 
 
- ## Node <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="github" height="30" width="auto" /> 
+ ## Node <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="Node" height="30" width="auto" /> 
  
 - [ ] Módulos
 - [ ] Executando códigos JS no Terminal
@@ -386,7 +386,7 @@
 - [ ] Pacote MoethodOverride
 
 
-## React Native <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" alt="github" height="30" width="auto" /> 
+## React Native <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" alt="React Native" height="30" width="auto" /> 
  
 - [ ] O que é React Native
 - [ ] Configuração do ambiente
@@ -418,7 +418,7 @@
 - [ ] Versão offline
 
 
-## MongoDB <img align="center" src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" alt="github" height="30" width="auto" /> 
+## MongoDB <img align="center" src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" alt="MongoDB" height="30" width="auto" /> 
  
 - [ ] Banco de dados Não-Relacionais
 - [ ] Sobre NoSQL
@@ -452,7 +452,7 @@
 
 
 
- ## Git e GitHub <img align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_black-512.png" alt="github" height="30" width="auto" /> 
+ ## Git e GitHub <img align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_black-512.png" alt="git e github" height="30" width="auto" /> 
  
 - [x] Entendendo Git e GitHub
 - [x] Instalação e configuração
@@ -464,13 +464,13 @@
 - [x] Visualizando as diferenças
 - [x] Desfazendo alterações
 - [x] Movendo e deletando branches 
-- [ ] Merge
-- [ ] Clone
-- [ ] Ignorando arquivos
-- [ ] Conectando Github com chave SSH
+- [x] Merge
+- [x] Clone
+- [x] Ignorando arquivos
+- [x] Conectando Github com chave SSH
 
 
-## Docker <img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-256.png" alt="github" height="30" width="auto" /> 
+## Docker <img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-256.png" alt="Docker" height="30" width="auto" /> 
  
 - [ ] Matriz de desenvolvimento, containers e docker
 - [ ] O que são containers 
@@ -503,7 +503,7 @@
 - [ ] KaliBrowser - Ferramenta Linux
 
 
-## ESNext <img align="center" src="https://devlinduldulao.pro//wp-content/uploads/2018/12/esnext.png" alt="github" height="30" width="auto" /> 
+## ESNext <img align="center" src="https://devlinduldulao.pro//wp-content/uploads/2018/12/esnext.png" alt="ESNext" height="30" width="auto" /> 
  
 - [ ] O que é o ESNext
 - [ ] Operador Rest/Spread
@@ -517,7 +517,7 @@
 - [ ] Promises
 
 
-## Angular <img align="center" src="https://mestresdaweb.com.br/wp-content/uploads/2020/05/AngularJS-Shield.svg" alt="github" height="30" width="auto" /> 
+## Angular <img align="center" src="https://mestresdaweb.com.br/wp-content/uploads/2020/05/AngularJS-Shield.svg" alt="Angular" height="30" width="auto" /> 
  
 - [ ] Backend com JSON Server
 - [ ] Visão geral Angular
@@ -544,7 +544,7 @@
 - [ ] Atualizando títulos
 
 
-## VueJS <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="github" height="30" width="auto" /> 
+## VueJS <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="VueJS" height="30" width="auto" /> 
  
 - [ ] Conceitos básicos
 - [ ] Binding
@@ -556,7 +556,7 @@
 - [ ] Diretiva personalizada
 
 
-## Electron <img align="center" src="https://www.itexto.com.br/devkico/wp-content/uploads/2020/02/electron_logo.png" alt="github" height="30" width="auto" /> 
+## Electron <img align="center" src="https://www.itexto.com.br/devkico/wp-content/uploads/2020/02/electron_logo.png" alt="Electron" height="30" width="auto" /> 
  
 - [ ] Configurando projeto
 - [ ] Ajustes iniciais e alteração do título da janela
