@@ -457,17 +457,36 @@
 - [x] Entendendo Git e GitHub
 - [x] Instalação e configuração
 - [x] Essencial do Git 
-- [x] Repositórios 
-- [x] Comitar arquivo/diretório
-- [x] Ciclo de vida dos arquivos
-- [x] Visualizando logs
-- [x] Visualizando as diferenças
-- [x] Desfazendo alterações
-- [x] Movendo e deletando branches 
-- [x] Merge
-- [x] Clone
-- [x] Ignorando arquivos
-- [x] Conectando Github com chave SSH
+- [x] Ver log de arquivos
+- [ ] Diff de commits
+- [ ] Remover arquivos
+- [x] Adicionar arquivos
+- [ ] .gitignore
+- [ ] Commit sem parâmetros
+- [x] git log
+- [ ] git branch
+- [x] Criando respositórios
+- [x] Sincronizando ambiente local com o respositório
+- [x] Clonando repositório 
+- [ ] Trabalho em equipe (Melhorar histório de commits)
+- [ ] Automerge - Remover conflitos
+- [ ] Merge Tools
+- [ ] Alterações sem espaço e git checkout
+- [ ] git stash
+- [ ] Logs personalizados
+- [x] Repositórios no Github
+- [x] Página de repositório
+- [ ] Branches no Github
+- [ ] Deletando branches
+- [ ] Cache de senha
+- [ ] Overview do repositório
+- [ ] Configuração do repositório
+- [ ] Configuração do perfil do usuário
+- [ ] Markdown
+- [ ] Upload README - gists
+- [ ] Trabalho em equipe no Github
+- [ ] Colaborando com projetos Open Source
+- [ ] CI - Continuous Integration
 
 
 ## Docker <img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-256.png" alt="Docker" height="30" width="auto" /> 
