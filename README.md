@@ -458,22 +458,22 @@
 - [x] Instalação e configuração
 - [x] Essencial do Git 
 - [x] Ver log de arquivos
-- [ ] Diff de commits
-- [ ] Remover arquivos
+- [x] Diff de commits
+- [x] Remover arquivos
 - [x] Adicionar arquivos
-- [ ] .gitignore
-- [ ] Commit sem parâmetros
+- [x] .gitignore
+- [x] Commit sem parâmetros
 - [x] git log
-- [ ] git branch
+- [x] git branch
 - [x] Criando respositórios
 - [x] Sincronizando ambiente local com o respositório
 - [x] Clonando repositório 
-- [ ] Trabalho em equipe (Melhorar histório de commits)
-- [ ] Automerge - Remover conflitos
-- [ ] Merge Tools
-- [ ] Alterações sem espaço e git checkout
-- [ ] git stash
-- [ ] Logs personalizados
+- [x] Trabalho em equipe (Melhorar histório de commits)
+- [x] Automerge - Remover conflitos
+- [x] Merge Tools
+- [x] Alterações sem espaço e git checkout
+- [x] git stash
+- [x] Logs personalizados
 - [x] Repositórios no Github
 - [x] Página de repositório
 - [ ] Branches no Github
