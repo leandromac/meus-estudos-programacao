@@ -476,8 +476,8 @@
 - [x] Logs personalizados
 - [x] Repositórios no Github
 - [x] Página de repositório
-- [ ] Branches no Github
-- [ ] Deletando branches
+- [x] Branches no Github
+- [x] Deletando branches
 - [ ] Cache de senha
 - [ ] Overview do repositório
 - [ ] Configuração do repositório
