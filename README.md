@@ -474,10 +474,10 @@
 - [x] Alterações sem espaço e git checkout
 - [x] git stash
 - [x] Logs personalizados
-- [x] Repositórios no Github
-- [x] Página de repositório
-- [x] Branches no Github
-- [x] Deletando branches
+- [ ] Repositórios no Github
+- [ ] Página de repositório
+- [ ] Branches no Github
+- [ ] Deletando branches
 - [ ] Cache de senha
 - [ ] Overview do repositório
 - [ ] Configuração do repositório
