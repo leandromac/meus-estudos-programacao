@@ -474,7 +474,7 @@
 - [x] Alterações sem espaço e git checkout
 - [x] git stash
 - [x] Logs personalizados
-- [ ] Repositórios no Github
+- [x] Repositórios no Github
 - [ ] Página de repositório
 - [ ] Branches no Github
 - [ ] Deletando branches
