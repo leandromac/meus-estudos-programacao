@@ -475,9 +475,9 @@
 - [x] git stash
 - [x] Logs personalizados
 - [x] Repositórios no Github
-- [ ] Página de repositório
-- [ ] Branches no Github
-- [ ] Deletando branches
+- [x] Página de repositório
+- [x] Branches no Github
+- [x] Deletando branches
 - [ ] Cache de senha
 - [ ] Overview do repositório
 - [ ] Configuração do repositório
