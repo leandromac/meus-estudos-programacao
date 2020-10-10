@@ -478,10 +478,10 @@
 - [x] Página de repositório
 - [x] Branches no Github
 - [x] Deletando branches
-- [ ] Cache de senha
-- [ ] Overview do repositório
-- [ ] Configuração do repositório
-- [ ] Configuração do perfil do usuário
+- [x] Cache de senha
+- [x] Overview do repositório
+- [x] Configuração do repositório
+- [x] Configuração do perfil do usuário
 - [ ] Markdown
 - [ ] Upload README - gists
 - [ ] Trabalho em equipe no Github
