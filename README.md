@@ -486,7 +486,7 @@
 - [x] Upload README - gists
 - [x] Trabalho em equipe no Github
 - [x] Colaborando com projetos Open Source
-- [ ] CI - Continuous Integration
+- [x] CI - Continuous Integration
 
 
 ## Docker <img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-256.png" alt="Docker" height="30" width="auto" /> 
