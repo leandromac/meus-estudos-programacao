@@ -482,8 +482,8 @@
 - [x] Overview do repositório
 - [x] Configuração do repositório
 - [x] Configuração do perfil do usuário
-- [ ] Markdown
-- [ ] Upload README - gists
+- [x] Markdown
+- [x] Upload README - gists
 - [ ] Trabalho em equipe no Github
 - [ ] Colaborando com projetos Open Source
 - [ ] CI - Continuous Integration
