@@ -355,8 +355,8 @@
  
 - [x] Entendendo ao Backend
 - [x] Introdução aos módulos
-- [ ] Módulos
-- [ ] Executando códigos JS no Terminal
+- [x] Módulos
+- [x] Executando códigos JS no Terminal
 - [ ] Process: Entrada e saída padrão
 - [ ] Usando módulos de terceiros
 - [ ] Sistema de módulos: Require
