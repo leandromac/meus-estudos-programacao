@@ -353,7 +353,8 @@
 
  ## Node <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="Node" height="30" width="auto" /> 
  
-- [x] Entendendo ao Backend
+- [x] Entendendo o Backend
+- [x] Instalação e configuração do NodeJS
 - [x] Introdução aos módulos
 - [x] Módulos
 - [x] Executando códigos JS no Terminal
