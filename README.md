@@ -360,6 +360,7 @@
 - [x] Executando códigos JS no Terminal
 - [ ] Process: Entrada e saída padrão
 - [x] Criando um servidor web com Nodejs
+- [x] Detectando URL diferente
 - [ ] Usando módulos de terceiros
 - [ ] Sistema de módulos: Require
 - [ ] Sistema de módulos: Exports
