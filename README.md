@@ -358,7 +358,7 @@
 - [x] Introdução aos módulos
 - [x] Módulos
 - [x] Executando códigos JS no Terminal
-- [ ] Process: Entrada e saída padrão
+- [x] Process: Entrada e saída padrão
 - [x] Criando um servidor web com Nodejs
 - [x] Detectando URL diferente
 - [ ] Usando módulos de terceiros
