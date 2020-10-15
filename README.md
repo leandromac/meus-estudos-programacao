@@ -359,6 +359,7 @@
 - [x] Módulos
 - [x] Executando códigos JS no Terminal
 - [ ] Process: Entrada e saída padrão
+- [x] Criando um servidor web com Nodejs
 - [ ] Usando módulos de terceiros
 - [ ] Sistema de módulos: Require
 - [ ] Sistema de módulos: Exports
