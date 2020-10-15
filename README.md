@@ -316,7 +316,7 @@
 - [ ] Novidades do React v16 - Context API
 
 
-## Webpack <img align="center" src="https://webpack.js.org/dcd5e077cf9f54ebe52d4f7ebe8c3080.png" alt="Webpack" height="30" width="auto" /> 
+## Webpack <img align="center" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="Webpack" height="30" width="auto" /> 
  
 - [x] Visão geral Webpack
 - [x] Estrutura básica do projeto
