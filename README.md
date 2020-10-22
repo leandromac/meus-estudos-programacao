@@ -422,6 +422,54 @@
 - [ ] React Navigation
 - [ ] Versão offline
 
+## Firebase <img align="center" src="https://jafapps.com.br/wp-content/uploads/2019/01/jafapps_.png" alt="Firebase" height="30" width="auto" /> 
+- [x] Apresentação Firebase
+- [x] Visão geral sobre o Google Firebase
+- [ ] Recursos do Google Firebase
+- [ ] Precificação do Google Firebase
+- [ ] Preparando ambiente de desenvolvimento
+- [ ] Definindo conteúdo inicial da aplicação (HTML, CSS e JS)
+- [ ] Criando projeto no Google Firebase
+- [ ] Autenticação por email e senha
+- [ ] Gerenciando o estado da autenticação e
+exibindo o loading.gif
+- [ ] Alterando a interfacei (GUI) para usuários autenticados
+- [ ] Verificando emails de usuários
+- [ ] Redefinindo senhas de usuários
+- [ ] Autenticação pelo Google
+- [ ] Autenticação pelo Github
+- [ ] Autenticação pelo Facebook
+- [ ] Autualizando dados básicos de usuários
+- [ ] Removendo contas de usuários
+- [ ] Centralizando o tratamento de erros
+- [ ] Soluções de hospedagem do Firebase
+- [ ] Configurando e hospedando a primeira versão da aplicação
+- [ ] Teste de autenticação pelo Facebook (com HTTPS)
+- [ ] Realtime Database - Introdução
+- [ ] Realtime Database - Inserção de dados
+- [ ] Realtime Database - Obtenção de dados
+- [ ] Realtime Database - Remoção de dados
+- [ ] Realtime Database - Atualização de dados
+- [ ] Realtime Database - Definição de regras de segurança e validação de dados
+- [ ] Realtime Database - Filtro e classificação de dados
+- [ ] Cloud Storage - Introdução
+- [ ] Cloud Storage - Envio de arquivos
+- [ ] Cloud Storage - Exibição de progresso de uploads
+- [ ] Cloud Storage - Controle de progresso de uploads
+- [ ] Cloud Storage - Vincular arquivos e tarefas
+- [ ] Cloud Storage - Obtenção de arquivos
+- [ ] Cloud Storage - Remoção de arquivos
+- [ ] Cloud Storage - Autualização de imagens de tarefas
+- [ ] Refatorar aplicação
+- [ ] Cloud Storage - Definição de regras de segurança e validação de arquivos
+- [ ] Cloud Firestore - Introdução
+- [ ] Cloud Firestore - Testes iniciais
+- [ ] Cloud Firestore - Inserção de dados
+- [ ] Cloud Firestore - Filtrar, classificar e obter dados
+- [ ] Cloud Firestore - Remoção de dados
+- [ ] Cloud Firestore - Atualização de dados
+- [ ] Cloud Firestore - Definição de regras de segurança e validação de dados
+
 
 ## MongoDB <img align="center" src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" alt="MongoDB" height="30" width="auto" /> 
  
