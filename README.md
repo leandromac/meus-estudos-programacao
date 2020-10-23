@@ -425,9 +425,9 @@
 ## Firebase <img align="center" src="https://jafapps.com.br/wp-content/uploads/2019/01/jafapps_.png" alt="Firebase" height="30" width="auto" /> 
 - [x] Apresentação Firebase
 - [x] Visão geral sobre o Google Firebase
-- [ ] Recursos do Google Firebase
-- [ ] Precificação do Google Firebase
-- [ ] Preparando ambiente de desenvolvimento
+- [x] Recursos do Google Firebase
+- [x] Precificação do Google Firebase
+- [x] Preparando ambiente de desenvolvimento
 - [ ] Definindo conteúdo inicial da aplicação (HTML, CSS e JS)
 - [ ] Criando projeto no Google Firebase
 - [ ] Autenticação por email e senha
