@@ -431,7 +431,7 @@
 - [x] Definindo conteúdo inicial da aplicação (HTML, CSS e JS)
 - [x] Criando projeto no Google Firebase
 - [x] Autenticação por email e senha
-- [ ] Gerenciando o estado da autenticação e
+- [x] Gerenciando o estado da autenticação e
 exibindo o loading.gif
 - [ ] Alterando a interfacei (GUI) para usuários autenticados
 - [ ] Verificando emails de usuários
