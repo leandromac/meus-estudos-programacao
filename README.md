@@ -428,7 +428,7 @@
 - [x] Recursos do Google Firebase
 - [x] Precificação do Google Firebase
 - [x] Preparando ambiente de desenvolvimento
-- [ ] Definindo conteúdo inicial da aplicação (HTML, CSS e JS)
+- [x] Definindo conteúdo inicial da aplicação (HTML, CSS e JS)
 - [ ] Criando projeto no Google Firebase
 - [ ] Autenticação por email e senha
 - [ ] Gerenciando o estado da autenticação e
