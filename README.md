@@ -433,7 +433,7 @@
 - [x] Autenticação por email e senha
 - [x] Gerenciando o estado da autenticação e
 exibindo o loading.gif
-- [ ] Alterando a interfacei (GUI) para usuários autenticados
+- [x] Alterando a interfacei (GUI) para usuários autenticados
 - [ ] Verificando emails de usuários
 - [ ] Redefinindo senhas de usuários
 - [ ] Autenticação pelo Google
