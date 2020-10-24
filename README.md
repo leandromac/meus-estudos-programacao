@@ -434,7 +434,7 @@
 - [x] Gerenciando o estado da autenticação e
 exibindo o loading.gif
 - [x] Alterando a interfacei (GUI) para usuários autenticados
-- [ ] Verificando emails de usuários
+- [x] Verificando emails de usuários
 - [ ] Redefinindo senhas de usuários
 - [ ] Autenticação pelo Google
 - [ ] Autenticação pelo Github
