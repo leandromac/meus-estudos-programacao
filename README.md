@@ -436,7 +436,7 @@ exibindo o loading.gif
 - [x] Alterando a interfacei (GUI) para usuários autenticados
 - [x] Verificando emails de usuários
 - [x] Redefinindo senhas de usuários
-- [ ] Autenticação pelo Google
+- [x] Autenticação pelo Google
 - [ ] Autenticação pelo Github
 - [ ] Autenticação pelo Facebook
 - [ ] Autualizando dados básicos de usuários
