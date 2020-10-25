@@ -438,7 +438,7 @@ exibindo o loading.gif
 - [x] Redefinindo senhas de usuários
 - [x] Autenticação pelo Google
 - [x] Autenticação pelo Github
-- [ ] Autenticação pelo Facebook
+- [x] Autenticação pelo Facebook
 - [ ] Autualizando dados básicos de usuários
 - [ ] Removendo contas de usuários
 - [ ] Centralizando o tratamento de erros
