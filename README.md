@@ -443,9 +443,9 @@ exibindo o loading.gif
 - [x] Removendo contas de usuários
 - [x] Centralizando o tratamento de erros
 - [x] Soluções de hospedagem do Firebase
-- [ ] Configurando e hospedando a primeira versão da aplicação
-- [ ] Teste de autenticação pelo Facebook (com HTTPS)
-- [ ] Realtime Database - Introdução
+- [x] Configurando e hospedando a primeira versão da aplicação
+- [x] Teste de autenticação pelo Facebook (com HTTPS)
+- [x] Realtime Database - Introdução
 - [ ] Realtime Database - Inserção de dados
 - [ ] Realtime Database - Obtenção de dados
 - [ ] Realtime Database - Remoção de dados
