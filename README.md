@@ -439,10 +439,10 @@ exibindo o loading.gif
 - [x] Autenticação pelo Google
 - [x] Autenticação pelo Github
 - [x] Autenticação pelo Facebook
-- [ ] Autualizando dados básicos de usuários
-- [ ] Removendo contas de usuários
-- [ ] Centralizando o tratamento de erros
-- [ ] Soluções de hospedagem do Firebase
+- [x] Autualizando dados básicos de usuários
+- [x] Removendo contas de usuários
+- [x] Centralizando o tratamento de erros
+- [x] Soluções de hospedagem do Firebase
 - [ ] Configurando e hospedando a primeira versão da aplicação
 - [ ] Teste de autenticação pelo Facebook (com HTTPS)
 - [ ] Realtime Database - Introdução
