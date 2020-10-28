@@ -447,7 +447,7 @@ exibindo o loading.gif
 - [x] Teste de autenticação pelo Facebook (com HTTPS)
 - [x] Realtime Database - Introdução
 - [x] Realtime Database - Inserção de dados
-- [ ] Realtime Database - Obtenção de dados
+- [x] Realtime Database - Obtenção de dados
 - [ ] Realtime Database - Remoção de dados
 - [ ] Realtime Database - Atualização de dados
 - [ ] Realtime Database - Definição de regras de segurança e validação de dados
