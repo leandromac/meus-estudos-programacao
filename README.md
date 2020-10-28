@@ -451,8 +451,8 @@ exibindo o loading.gif
 - [x] Realtime Database - Remoção de dados
 - [x] Realtime Database - Atualização de dados
 - [x] Realtime Database - Definição de regras de segurança e validação de dados
-- [ ] Realtime Database - Filtro e classificação de dados
-- [ ] Cloud Storage - Introdução
+- [x] Realtime Database - Filtro e classificação de dados
+- [x] Cloud Storage - Introdução
 - [ ] Cloud Storage - Envio de arquivos
 - [ ] Cloud Storage - Exibição de progresso de uploads
 - [ ] Cloud Storage - Controle de progresso de uploads
