@@ -11,7 +11,7 @@
 - Email:  **nandofmacedo@gmail.com** <br>
 
 
-## JavaScript + Lógica de Programação <img align="center" src="https://image.flaticon.com/icons/png/512/1779/1779335.png" alt="logica de programacao" height="30" width="auto"/><br>
+## Javascript + Lógica de Programação <img align="center" src="https://image.flaticon.com/icons/png/512/1779/1779335.png" alt="logica de programacao" height="30" width="auto"/><br>
 - [x] Conceitos básicos de programação 
 - [x] Algorítmos
 - [x] Essencial de lógica matemática para computação
@@ -26,7 +26,7 @@
 - [x] Funções 
 
 
-## JavaScript   <img alt="Javascript" src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" width="auto" height="30"/> <br>
+## Javascript   <img alt="Javascript" src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" width="auto" height="30"/> <br>
 
 - [x] Variáveis e tipos de dados 
 - [x] Operadores aritiméticos 
@@ -448,8 +448,8 @@ exibindo o loading.gif
 - [x] Realtime Database - Introdução
 - [x] Realtime Database - Inserção de dados
 - [x] Realtime Database - Obtenção de dados
-- [ ] Realtime Database - Remoção de dados
-- [ ] Realtime Database - Atualização de dados
+- [x] Realtime Database - Remoção de dados
+- [x] Realtime Database - Atualização de dados
 - [ ] Realtime Database - Definição de regras de segurança e validação de dados
 - [ ] Realtime Database - Filtro e classificação de dados
 - [ ] Cloud Storage - Introdução
