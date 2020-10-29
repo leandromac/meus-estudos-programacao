@@ -453,7 +453,7 @@ exibindo o loading.gif
 - [x] Realtime Database - Definição de regras de segurança e validação de dados
 - [x] Realtime Database - Filtro e classificação de dados
 - [x] Cloud Storage - Introdução
-- [ ] Cloud Storage - Envio de arquivos
+- [x] Cloud Storage - Envio de arquivos
 - [ ] Cloud Storage - Exibição de progresso de uploads
 - [ ] Cloud Storage - Controle de progresso de uploads
 - [ ] Cloud Storage - Vincular arquivos e tarefas
