@@ -454,7 +454,7 @@ exibindo o loading.gif
 - [x] Realtime Database - Filtro e classificação de dados
 - [x] Cloud Storage - Introdução
 - [x] Cloud Storage - Envio de arquivos
-- [ ] Cloud Storage - Exibição de progresso de uploads
+- [x] Cloud Storage - Exibição de progresso de uploads
 - [ ] Cloud Storage - Controle de progresso de uploads
 - [ ] Cloud Storage - Vincular arquivos e tarefas
 - [ ] Cloud Storage - Obtenção de arquivos
