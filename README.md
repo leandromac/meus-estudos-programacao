@@ -455,8 +455,8 @@ exibindo o loading.gif
 - [x] Cloud Storage - Introdução
 - [x] Cloud Storage - Envio de arquivos
 - [x] Cloud Storage - Exibição de progresso de uploads
-- [ ] Cloud Storage - Controle de progresso de uploads
-- [ ] Cloud Storage - Vincular arquivos e tarefas
+- [x] Cloud Storage - Controle de progresso de uploads
+- [x] Cloud Storage - Vincular arquivos e tarefas
 - [ ] Cloud Storage - Obtenção de arquivos
 - [ ] Cloud Storage - Remoção de arquivos
 - [ ] Cloud Storage - Autualização de imagens de tarefas
