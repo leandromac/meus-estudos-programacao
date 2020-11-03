@@ -459,8 +459,8 @@ exibindo o loading.gif
 - [x] Cloud Storage - Vincular arquivos e tarefas
 - [x] Cloud Storage - Obtenção de arquivos
 - [x] Cloud Storage - Remoção de arquivos
-- [ ] Cloud Storage - Autualização de imagens de tarefas
-- [ ] Refatorar aplicação
+- [x] Cloud Storage - Atualização de imagens de tarefas
+- [x] Refatorar aplicação
 - [ ] Cloud Storage - Definição de regras de segurança e validação de arquivos
 - [ ] Cloud Firestore - Introdução
 - [ ] Cloud Firestore - Testes iniciais
