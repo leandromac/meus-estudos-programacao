@@ -462,7 +462,7 @@ exibindo o loading.gif
 - [x] Cloud Storage - Atualização de imagens de tarefas
 - [x] Refatorar aplicação
 - [x] Cloud Storage - Definição de regras de segurança e validação de arquivos
-- [ ] Cloud Firestore - Introdução
+- [x] Cloud Firestore - Introdução
 - [ ] Cloud Firestore - Testes iniciais
 - [ ] Cloud Firestore - Inserção de dados
 - [ ] Cloud Firestore - Filtrar, classificar e obter dados
