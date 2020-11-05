@@ -461,7 +461,7 @@ exibindo o loading.gif
 - [x] Cloud Storage - Remoção de arquivos
 - [x] Cloud Storage - Atualização de imagens de tarefas
 - [x] Refatorar aplicação
-- [ ] Cloud Storage - Definição de regras de segurança e validação de arquivos
+- [x] Cloud Storage - Definição de regras de segurança e validação de arquivos
 - [ ] Cloud Firestore - Introdução
 - [ ] Cloud Firestore - Testes iniciais
 - [ ] Cloud Firestore - Inserção de dados
