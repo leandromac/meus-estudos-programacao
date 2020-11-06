@@ -465,7 +465,7 @@ exibindo o loading.gif
 - [x] Cloud Firestore - Introdução
 - [x] Cloud Firestore - Testes iniciais
 - [x] Cloud Firestore - Inserção de dados
-- [ ] Cloud Firestore - Filtrar, classificar e obter dados
+- [x] Cloud Firestore - Filtrar, classificar e obter dados
 - [ ] Cloud Firestore - Remoção de dados
 - [ ] Cloud Firestore - Atualização de dados
 - [ ] Cloud Firestore - Definição de regras de segurança e validação de dados
