@@ -466,9 +466,9 @@ exibindo o loading.gif
 - [x] Cloud Firestore - Testes iniciais
 - [x] Cloud Firestore - Inserção de dados
 - [x] Cloud Firestore - Filtrar, classificar e obter dados
-- [ ] Cloud Firestore - Remoção de dados
-- [ ] Cloud Firestore - Atualização de dados
-- [ ] Cloud Firestore - Definição de regras de segurança e validação de dados
+- [x] Cloud Firestore - Remoção de dados
+- [x] Cloud Firestore - Atualização de dados
+- [x] Cloud Firestore - Definição de regras de segurança e validação de dados
 
 
 ## MongoDB <img align="center" src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" alt="MongoDB" height="30" width="auto" /> 
