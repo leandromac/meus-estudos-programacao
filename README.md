@@ -591,14 +591,14 @@ exibindo o loading.gif
 
 ## Angular <img align="center" src="https://mestresdaweb.com.br/wp-content/uploads/2020/05/AngularJS-Shield.svg" alt="Angular" height="30" width="auto" /> 
  
-- [ ] Backend com JSON Server
-- [ ] Visão geral Angular
-- [ ] Conceitos essenciais
-- [ ] Criando APP com o Angular CLI
-- [ ] Conhecendo os arquivos do projeto
-- [ ] HTML do AppComponent
-- [ ] Instalar os componentes do material
-- [ ] Componente cabeçalho
+- [x] Backend com JSON Server
+- [x] Visão geral Angular
+- [x] Conceitos essenciais
+- [x] Criando APP com o Angular CLI
+- [x] Conhecendo os arquivos do projeto
+- [x] HTML do AppComponent
+- [x] Instalar os componentes do material
+- [x] Componente cabeçalho
 - [ ] Componente rodapé
 - [ ] Componente navegação
 - [ ] Elementos do Angular
