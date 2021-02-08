@@ -599,8 +599,8 @@ exibindo o loading.gif
 - [x] HTML do AppComponent
 - [x] Instalar os componentes do material
 - [x] Componente cabeçalho
-- [ ] Componente rodapé
-- [ ] Componente navegação
+- [x] Componente rodapé
+- [x] Componente navegação
 - [ ] Elementos do Angular
 - [ ] Componentes início
 - [ ] Naveganod entre componentes
