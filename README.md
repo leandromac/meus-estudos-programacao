@@ -601,7 +601,7 @@ exibindo o loading.gif
 - [x] Componente cabeçalho
 - [x] Componente rodapé
 - [x] Componente navegação
-- [ ] Elementos do Angular
+- [x] Elementos do Angular
 - [ ] Componentes início
 - [ ] Naveganod entre componentes
 - [ ] Diretivas na prática
