@@ -602,8 +602,8 @@ exibindo o loading.gif
 - [x] Componente rodapé
 - [x] Componente navegação
 - [x] Elementos do Angular
-- [ ] Componentes início
-- [ ] Naveganod entre componentes
+- [x] Componentes início
+- [x] Naveganod entre componentes
 - [ ] Diretivas na prática
 - [ ] Bindings
 - [ ] Exibindo registros com o *ngFor
