@@ -604,7 +604,7 @@ exibindo o loading.gif
 - [x] Elementos do Angular
 - [x] Componentes início
 - [x] Naveganod entre componentes
-- [ ] Diretivas na prática
+- [x] Diretivas na prática
 - [ ] Bindings
 - [ ] Exibindo registros com o *ngFor
 - [ ] Gerando componentes tabela
